@@ -1,0 +1,14 @@
+.DS_Store
+.venv-modal/
+CVLface-main/.venv-cvlface-dfa/
+CVLface-main/tinyface/
+CVLface-main/outputs/
+CVLface-main/benchmarks/tinyface_alignment/last_modal_result.json
+CVLface-main/benchmarks/tinyface_alignment/tinyface_alignment_smoke.json
+**/__pycache__/
+*.py[cod]
+*.pth
+*.pt
+*.onnx
+*.safetensors
+.env
