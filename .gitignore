@@ -1,5 +1,6 @@
 .DS_Store
 .venv-modal/
+.venv-tinyface311/
 CVLface-main/.venv-cvlface-dfa/
 CVLface-main/tinyface/
 CVLface-main/outputs/
