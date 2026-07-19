@@ -12,3 +12,6 @@ CVLface-main/benchmarks/tinyface_alignment/tinyface_alignment_smoke.json
 *.onnx
 *.safetensors
 .env
+results/
+model_cache/
+tinyface.zip
